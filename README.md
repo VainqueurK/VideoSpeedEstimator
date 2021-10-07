@@ -1,6 +1,5 @@
 Devloped on
 Python Version:  3.8 
-IDE: PyCharm
 
 If "./Main.py" does not run please install all the nesscary external libraries.
 
